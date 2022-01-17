@@ -19,6 +19,10 @@
 		git clone https://github.com/dacomo2122daw2/m08uf4pr4.git
 		cd m08uf4pr4
 
-2.- Inicia la màquina virtual amb les ordres de `Vagrant`:
+2.- Inicia la màquina virtual amb les ordres de "Vagrant" des de la carpeta m08uf4pr4:
 
 	vagrant up
+
+3- Accedeix a la màquina virtual. Des de la carpeta m08uf4pr4:
+
+	vagrant ssh
